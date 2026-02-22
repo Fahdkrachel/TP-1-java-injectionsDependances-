@@ -8,4 +8,7 @@ public class daoImpl implements IDao {
         return temp;
 
     }
+
+    public daoImpl() {
+    }
 }

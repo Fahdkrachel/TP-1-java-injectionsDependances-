@@ -5,6 +5,9 @@ import dao.IDao;
 public class MetierImpl implements IMetier {
     private IDao dao;
 
+    public MetierImpl() {
+    }
+
     public MetierImpl(IDao dao) {
         this.dao = dao;
     }
@@ -12,5 +15,9 @@ public class MetierImpl implements IMetier {
     public double calcul() {
         double t = 2 * dao.getDta();
         return t;
+    }
+
+    public void setDao(IDao dao) {
+        this.dao = dao;
     }
 }
