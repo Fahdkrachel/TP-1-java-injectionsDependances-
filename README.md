@@ -389,13 +389,14 @@ config.txt
 
 ## 7. Diagramme de classes
 
-> 📐 **Diagramme UML de classes :**
+> 📐 **Diagramme  de classes :**
 
-<!-- INSÉRER ICI : le diagramme de classes UML -->
+![Diagramme  de classes](https://github.com/user-attachments/assets/votre-lien-généré)
+```
 
+Et pareil pour le diagramme :
 ```
-[ Diagramme de classes à insérer ici ]
-```
+
 
 **Résumé des relations :**
 
