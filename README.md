@@ -391,11 +391,10 @@ config.txt
 
 > 📐 **Diagramme  de classes :**
 
-![Diagramme  de classes](https://github.com/user-attachments/assets/votre-lien-généré)
+![Diagramme  de classes](https://github.com/Fahdkrachel/TP-1-java-injectionsDependances-/blob/master/DiagramClass.jpeg)
 ```
 
-Et pareil pour le diagramme :
-```
+
 
 
 **Résumé des relations :**
