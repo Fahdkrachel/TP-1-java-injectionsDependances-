@@ -395,7 +395,7 @@ config.txt
 ```
 
 
-
+```
 
 **Résumé des relations :**
 
