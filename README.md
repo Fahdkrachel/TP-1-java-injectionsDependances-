@@ -377,13 +377,9 @@ TPIOC/
 config.txt
 ```
 
-> 📸 **Capture d'écran de la structure du projet dans l'IDE :**
 
-<!-- INSÉRER ICI : screenshot de la structure du projet (ex: arborescence IntelliJ/Eclipse) -->
 
-```
-[ Image de la structure du projet à insérer ici ]
-```
+
 
 ---
 
