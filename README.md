@@ -376,11 +376,6 @@ TPIOC/
                 └── Pres2.java
 config.txt
 ```
-
-
-
-
-
 ---
 
 ## 7. Diagramme de classes
